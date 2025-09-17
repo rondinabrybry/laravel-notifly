@@ -1,5 +1,5 @@
 {
-    "name": "your-vendor/laravel-notify",
+    "name": "brybry/laravel-notify",
     "description": "A Laravel package for real-time notifications, events, and chat functionality using self-hosted WebSocket server",
     "type": "library",
     "license": "MIT",
